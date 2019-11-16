@@ -8,7 +8,7 @@ namespace MvcMusicStore.Controllers
 {
     public class AccountController : Controller
     {
-
+        // adding for trigger a achange on github
         private void MigrateShoppingCart(string UserName)
         {
             // Associate shopping cart items with logged-in user
